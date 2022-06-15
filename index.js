@@ -13,4 +13,4 @@ server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
 # test for git pull
-# test for git merge without fetch
+# test for git fetch
